@@ -53,5 +53,17 @@ This test plan verifies that all features work as expected across various browse
 - **Offline Functionality**: Features requiring offline or limited connectivity.
 - **Accessibility Testing**: Compliance with WCAG standards is not included.
 
+## Bug Report
+
+The following screenshots have been attached to demonstrate the bugs identified during the manual testing process of the project:
+
+- `Screenshot_1.png`  
+- `Screenshot_3.png`  
+- `Screenshot_4.png`  
+- `Screenshot_5.png`  
+
+Each screenshot provides visual evidence of the issues encountered, aiding in better understanding and reproduction of the bugs for further debugging and resolution.
+
+
 ## Conclusion
 This test plan ensures that the Walmart web application’s key features and modules are thoroughly tested for **Functional, UI, and Usability aspects**. The test will confirm consistency, responsiveness, and usability across different platforms and devices.
