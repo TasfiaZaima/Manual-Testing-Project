@@ -56,9 +56,13 @@ This test plan verifies that all features work as expected across various browse
 ## Bug Report
 
 The following screenshots have been attached to demonstrate the bugs identified during the manual testing process of the project:
+### Bug 1
 - ![Bug Screenshot 1](Bugs%20Screenshots/Screenshot_1.png)
+### Bug 2
 - ![Bug Screenshot 3](Bugs%20Screenshots/Screenshot_3.png)
+### Bug 3
 - ![Bug Screenshot 4](Bugs%20Screenshots/Screenshot_4.png)
+### Bug 4
 - ![Bug Screenshot 5](Bugs%20Screenshots/Screenshot_5.png)
 
 Each screenshot provides visual evidence of the issues encountered, aiding in better understanding and reproduction of the bugs for further debugging and resolution.
